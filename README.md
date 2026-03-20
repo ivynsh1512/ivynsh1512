@@ -69,6 +69,45 @@ Provides basic health guidance and symptom analysis to help users make informed 
 
 ---
 
+## 📰 Featured In
+
+Recognized across multiple media platforms for building NovaX AI and AI-driven solutions.
+
+<p align="center">
+  <a href="https://foxstoryindia.com/2026/02/27/founder-mr-divyansh-shukla-highlights-strategic-infrastructure-model-behind-novax-ai/">
+    <img src="https://img.shields.io/badge/Fox%20Story%20India-000000?style=for-the-badge&logo=google-news&logoColor=white"/>
+  </a>
+  <a href="https://boroktimes.com/novax-ai-emerges-as-a-structured-indian-ai-platform-integrating-conversational-creative-and-analytical-capabilities/">
+    <img src="https://img.shields.io/badge/Borok%20Times-000000?style=for-the-badge&logo=google-news&logoColor=white"/>
+  </a>
+  <a href="https://entrepreneurhunt.com/mr-divyansh-shukla-leads-novax-ai-with-a-disciplined-vision-for-scalable-artificial-intelligence-from-india">
+    <img src="https://img.shields.io/badge/Entrepreneur%20Hunt-000000?style=for-the-badge&logo=google-news&logoColor=white"/>
+  </a>
+  <a href="https://www.hindustanmetro.com/mr-divyansh-shukla-leads-novax-ai-with-a-disciplined-vision-for-scalable-artificial-intelligence-from-india/">
+    <img src="https://img.shields.io/badge/Hindustan%20Metro-000000?style=for-the-badge&logo=google-news&logoColor=white"/>
+  </a>
+  <a href="https://bharatfast.com/english/brand-post/novax-ai-adopts-capital-efficient-api-infrastructure-strategy-to-support-sustainable-ai-development/31533/">
+    <img src="https://img.shields.io/badge/Bharat%20Fast-000000?style=for-the-badge&logo=google-news&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.unstoppableindia.net/post/novax-ai-the-indian-ai-platform-founded-by-divyansh-shukla-built-with-vision-intelligence-and-str">
+    <img src="https://img.shields.io/badge/Unstoppable%20India-000000?style=for-the-badge&logo=google-news&logoColor=white"/>
+  </a>
+  <a href="https://english.punjabbytes.com/mr-divyansh-shukla-leads-novax-ai-with-a-disciplined-vision-for-scalable-artificial-intelligence-from-india">
+    <img src="https://img.shields.io/badge/Punjab%20Bytes-000000?style=for-the-badge&logo=google-news&logoColor=white"/>
+  </a>
+  <a href="https://thedailybeat.in/mr-divyansh-shukla-leads-novax-ai-with-a-disciplined-vision-for-scalable-artificial-intelligence-from-india">
+    <img src="https://img.shields.io/badge/The%20Daily%20Beat-000000?style=for-the-badge&logo=google-news&logoColor=white"/>
+  </a>
+  <a href="https://up18news.com/mr-divyansh-shukla-leads-novax-ai-with-a-disciplined-vision-for-scalable-artificial-intelligence-from-india/">
+    <img src="https://img.shields.io/badge/UP18%20News-000000?style=for-the-badge&logo=google-news&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
