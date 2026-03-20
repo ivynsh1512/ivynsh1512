@@ -142,7 +142,7 @@ Recognized across multiple media platforms for building NovaX AI and AI-driven s
 - 💼 [LinkedIn](https://www.linkedin.com/in/divyansh-shukla-8916113a6/)  
 - 🐦 [X (Twitter)](https://x.com/Divyans49079250)  
 - 📧 Email: **divyansh.shukla1512@gmail.com**  
-- 🌐 Portfolio: *(coming soon)*
+- 🌐 Portfolio: [View Portfolio](https://divyansh-shukla.onrender.com/)
 
 ---
 
